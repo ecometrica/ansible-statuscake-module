@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: "Rory Geoghegan"
+  description: "Module to pause and unpause statuscake tests"
+  company: Ecometrica Ltd
+  license: MIT
+  min_ansible_version: 1.9.3
+  platforms:
+    - name: GenericUNIX
+      versions:
+        - all
+  categories:
+    - monitoring
+dependencies: []
