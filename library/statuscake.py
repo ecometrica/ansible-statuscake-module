@@ -25,8 +25,8 @@ class StatusCakeError(Exception):
 
 
 class StatusCakeAPI(object):
-    URL_ALL_TESTS = u"https://www.statuscake.com/API/Tests/"
-    URL_UPDATE_TEST = u"https://www.statuscake.com/API/Tests/Update"
+    URL_ALL_TESTS = u"https://app.statuscake.com/API/Tests/"
+    URL_UPDATE_TEST = u"https://app.statuscake.com/API/Tests/Update"
 
     TEST_NAME_KEY = u'WebsiteName'
     PAUSED_KEY = u'Paused'
